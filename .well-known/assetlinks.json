@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.autoreturn.mobile",
+    "package_name": "com.autoreturn.mobile.demo",
     "sha256_cert_fingerprints":
-   ["92:1F:65:C7:D3:CB:FE:C6:BC:9B:1A:57:98:84:53:B4:84:94:F9:37:2B:0D:75:26:50:31:5E:82:12:6C:D3:C2"]
+    ["92:1F:65:C7:D3:CB:FE:C6:BC:9B:1A:57:98:84:53:B4:84:94:F9:37:2B:0D:75:26:50:31:5E:82:12:6C:D3:C2"]
   }
 }]
